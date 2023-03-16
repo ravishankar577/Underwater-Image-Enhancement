@@ -1,0 +1,13 @@
+two datasets used:
+
+1) The EUVP (Enhancing Underwater Visual Perception) Dataset
+
+    details: https://irvlab.cs.umn.edu/resources/euvp-dataset
+
+    download: https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3
+
+2) The UIEB (Underwater Image Enhancement Benchmark) Dataset 
+
+    details: https://li-chongyi.github.io/proj_benchmark.html
+
+    download: https://drive.google.com/file/d/12W_kkblc2Vryb9zHQ6BfGQ_NKUfXYk13/view
